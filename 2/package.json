@@ -1,0 +1,13 @@
+{
+  "name": "untitled",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rm -rf dist && npx parcel build ./src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.3"
+  }
+}
